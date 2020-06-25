@@ -1,6 +1,8 @@
 # First Winger
 <img src="./Image/인게임.PNG" width="800"></img></br></br>
-[플레이 영상](https://blog.naver.com/zoqxlstm6)
+## 플레이 영상
+[플레이 영상](https://blog.naver.com/zoqxlstm6/221958452598)
+
 ## 프로젝트 소개
 강의를 수강하며 제작해 본 유니티 HLAPI를 이용한 멀티플레이 슈팅 게임.</br>
 유니티에서의 각각의 객체에 대한 기능 처리와 코드를 객체지향적으로 분리해서 만드는 구조에 대해 중점적으로 학습 해보았습니다. 코드를 이해하며 자세한 주석처리를 해놓았습니다.
